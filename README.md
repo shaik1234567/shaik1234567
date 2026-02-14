@@ -1,6 +1,12 @@
+<img align="center" width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=Hello%2C+I+am+SHAIK+SHIVAJI+%21%F0%9F%91%8B" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shaik._,shivaji) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivaji-shaik-b92b19270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaikshivaji123@gmail.com) 
+<p align="center">
+  <a href="https://zane-portfolio.kiyo-n-zane.com/">Personal Website</a> •
+  <a href="https://www.threads.com/@zane___chen">Thread</a> •
+  <a href="https://www.linkedin.com/in/zeling-chen/">LinkedIn</a> •
+  <a href="https://medium.com/@czl970721">Medium</a>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shaik1234567&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shaik1234567&theme=dark&hide_border=false)<br/>
