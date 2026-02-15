@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://netflix-theme-portfolio-five.vercel.app/">Portfolio</a> •
   <a href="https://www.threads.com/@zane___chen">Thread</a> •
-  <a href="https://www.linkedin.com/in/zeling-chen/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/shivaji-shaik-b92b19270/">LinkedIn</a> •
   <a href="https://medium.com/@czl970721">Medium</a>
 </p>
 
